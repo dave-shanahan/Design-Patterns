@@ -7,8 +7,7 @@ mallard_duck.display
 mallard_duck.quack
 mallard_duck.swim
 
-
 redhead_duck = RedheadDuck.new
-redhead_duck.dissplay
+redhead_duck.display
 redhead_duck.quack
 redhead_duck.swim
